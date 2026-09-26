@@ -1,0 +1,5 @@
+,valor
+model__colsample_bytree,1.0
+model__learning_rate,0.05
+model__max_depth,4.0
+model__n_estimators,200.0
